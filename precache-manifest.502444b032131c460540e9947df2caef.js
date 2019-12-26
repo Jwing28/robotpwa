@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a65cf4b62a14e70febe1adac42044367",
+    "revision": "461fc809809f4c3c7e64db09674eb42c",
     "url": "/robotpwa/index.html"
   },
   {
-    "revision": "0a2b94582dd270325bb4",
+    "revision": "966aecd92fedae138c5e",
     "url": "/robotpwa/static/css/main.8e0051b3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robotpwa/static/js/2.f2f9d661.chunk.js"
   },
   {
-    "revision": "0a2b94582dd270325bb4",
-    "url": "/robotpwa/static/js/main.f25a9783.chunk.js"
+    "revision": "966aecd92fedae138c5e",
+    "url": "/robotpwa/static/js/main.fdf9b9de.chunk.js"
   },
   {
     "revision": "a97da9462386a20975ef",
